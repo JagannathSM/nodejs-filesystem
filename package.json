@@ -1,5 +1,5 @@
 {
-  "name": "node_day_1_task",
+  "name": "node_day_2_task",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^4.19.2",
-    "fs": "^0.0.1-security"
+    "express": "^4.19.2"
   }
 }
